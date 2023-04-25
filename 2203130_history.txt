@@ -1,0 +1,54 @@
+    1  who
+    2  last
+    3  git clone
+    4  git clone | less
+    5  git shit | less
+    6  git init | less
+    7  git out | less
+    8  who
+    9  vim sample1.txt
+   10  who
+   11  history
+   12  ls -la ~/.ssh | grep '2203130_rsa'
+   13  git status
+   14  cd ~/.ssh
+   15  ls
+   16  ls -alS
+   17  git clone git@github.com:Shreeraj-Deshmukh/2203130-lab-exam..git
+   18  cat > README.md
+   19  git pull https://github.com/tusharlone/cs102-git-essentials.git
+   20  ls -alS
+   21  cd 2203130-lab-exam.
+   22  ls -alS
+   23  cat > README.md
+   24  git pull https://github.com/tusharlone/cs102-git-essentials.git
+   25  ls -alS
+   26  cat README.md
+   27  git pull https://github.com/tusharlone/cs102-git-essentials.git
+   28  ls -la
+   29  ls -alS
+   30  mv README.md ../README.md
+   31  git pull https://github.com/tusharlone/cs102-git-essentials.git
+   32  ls -la
+   33  cat README.md
+   34  rm README.md
+   35  mv ../README.md README.md
+   36  cat README.md
+   37  cat ca_500.csv | head -n 1
+   38  cat ca_500.csv | head -n 1 > ca_city_montreal.csv
+   39  grep -iw "Montreal" ca_500.csv >> ca_city_montreal.csv
+   40  vim 2203130_data_filter.sh
+   41  ls -al
+   42  history
+   43  history > 2203130_history.txt
+   44* 
+   45  vim 2203130_data_filter.sh
+   46  bash 2203130_data_filter.sh
+   47  vim 2203130_data_filter.sh
+   48  bash 2203130_data_filter.sh
+   49  vim 2203130_data_filter.sh
+   50  bash 2203130_data_filter.sh
+   51  vim 2203130_data_filter.sh
+   52  bash 2203130_data_filter.sh
+   53  vim 2203130_data_filter.sh
+   54  history > 2203130_history.txt
