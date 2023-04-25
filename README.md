@@ -25,7 +25,10 @@ Description - I'm currently studying at IIT GOA and pursuing CSE.
 
 - **CS 102** Software tools *Prof. Clint P. George*
 - **PH 102** Physics          * Prof. Santosh Das*
-
+- **ME 102** Engineering Drawing * Prof.Arindam Das*
+- **BB 101** Intro to biology * Prof. Sreenath Balkrishnan*
+- **MA 102** Linear Algebra * Prof. Kalpesh Haria*
+- **MA 103** ODE 
 
 *
 
